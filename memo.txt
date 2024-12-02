@@ -1,0 +1,2 @@
+dart --version                                                                                                  (*'-') 
+Dart SDK version: 3.5.4 (stable) (Wed Oct 16 16:18:51 2024 +0000) on "macos_x64"
