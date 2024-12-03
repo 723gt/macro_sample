@@ -1,2 +1,7 @@
 dart --version                                                                                                  (*'-') 
 Dart SDK version: 3.5.4 (stable) (Wed Oct 16 16:18:51 2024 +0000) on "macos_x64"
+
+lib/my_macro_sample/main.dart:13:10: Error: The method 'hello' isn't defined for the class 'Sample'.
+ - 'Sample' is from 'package:macro_sample/my_macro_sample/main.dart' ('lib/my_macro_sample/main.dart').
+Try correcting the name to the name of an existing method, or defining a method named 'hello'.
+  sample.hello();
